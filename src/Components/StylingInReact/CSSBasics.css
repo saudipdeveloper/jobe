@@ -1,0 +1,15 @@
+
+.fbox {
+    font-size: 18px;
+    font-family: 'Heebo', sans-serif;
+}
+
+.para {
+    color: blue;
+}
+.btn {
+    width: 120px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: yellow;
+}
